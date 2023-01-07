@@ -9,6 +9,8 @@
  
 <center>
   <h1>Page index</h1>
+  <h1>Page index</h1>
+  <h1>Page index</h1>
 </center>
 
 </div>
